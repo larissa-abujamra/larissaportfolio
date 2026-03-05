@@ -53,7 +53,7 @@ const projects = {
     role: 'Co-founder · Product & GTM',
     description: 'As an international student from Brazil, I experienced firsthand how overwhelming and fragmented the U.S. college application process can be. Meet Rumo, an AI-powered platform that consolidates timelines, essays, and college research into one intuitive space.',
     images: ['imgs/rumo.png'],
-    externalUrl: 'https://findrumo.com',
+    
     sections: [
       { type: 'idea', heading: 'THE IDEA', body: "As an international student from Brazil, I experienced firsthand how overwhelming and fragmented the U.S. college application process can be. After navigating multiple tools and limited guidance, I realized that many students (especially those without access to private advisors) struggle to stay organized and highlight their strengths. Through hundreds of customer discovery calls with students and counselors, I learned exactly where the bottlenecks and pain points are. Meet Rumo, an AI-powered platform that consolidates timelines, essays, and college research into one intuitive space, helping students stay on track while giving counselors an easy way to provide guidance and feedback.", },
       { type: 'feature', heading: 'Personalized Onboarding Experience', body: 'Streamlined, adaptive onboarding flow. Intakes students\' interests, goals, and academic background.', image: 'imgs/rumo1.png' },
